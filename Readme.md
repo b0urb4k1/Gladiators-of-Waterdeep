@@ -1,1 +1,1 @@
-[Waterdeep](Waterdeep.md)
+Gladiators of Waterdeep
